@@ -1,0 +1,1 @@
+var st="This is demo string!";
